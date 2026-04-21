@@ -1,0 +1,2 @@
+plugins { id 'com.android.application' version '8.1.1' }
+android { namespace 'com.gobreal.helper'; compileSdk 34; defaultConfig { applicationId "com.gobreal.helper"; minSdk 21; targetSdk 34 } }
